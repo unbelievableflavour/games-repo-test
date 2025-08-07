@@ -1,0 +1,17 @@
+{
+    "name": "Abandoneware Games",
+    "description": "A collection of abandonware games from myabandonware.com",
+    "games": [
+      {
+        "app_name": "nightfire",
+        "title": "007: Nightfire",
+        "executable": "/path/to/nightfire/nightfire.exe",
+        "install_path": "/path/to/nightfire",
+        "platform": "Windows",
+        "description": "James Bond 007: Nightfire (sometimes stylised NightFire) is a 2002 first-person shooter game published by Electronic Arts (EA) for the GameCube, PlayStation 2, Xbox and Microsoft Windows, with additional versions released for the Game Boy Advance in 2003, and Mac OS X in 2004. The computer versions feature modifications to the storyline, different missions, and the removal of driving sections used in home console versions.",
+        "version": "0.0.1",
+        "download_url": "https://d1.myabandonware.com/t/50cfd698-5e8a-42c1-bae8-b5d1c580abf2/James-Bond-007-Nightfire_Win_EN_MagiPack.zip"
+      }
+    ]
+  }
+  

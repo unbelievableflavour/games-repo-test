@@ -1,0 +1,397 @@
+{
+  "name": "[Portable] LAN Games Repository",
+  "description": "A collection of portable LAN games from archive.org",
+  "games": [
+    {
+      "app_name": "age_of_mythology",
+      "title": "Age of Mythology",
+      "executable": "/path/to/age_of_mythology/Age of Mythology [Portable].exe",
+      "install_path": "/path/to/age_of_mythology",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 178649600,
+      "download_url": "https://archive.org/download/PortableLANGames/Age%20of%20Mythology%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "aoe2_exp",
+      "title": "Age of Empires II + Expansion",
+      "executable": "/path/to/aoe2_exp/AoE2+Exp [Portable].exe",
+      "install_path": "/path/to/aoe2_exp",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 147128320,
+      "download_url": "https://archive.org/download/PortableLANGames/AoE2%2BExp%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "burnout_paradise",
+      "title": "Burnout Paradise: The Ultimate Box",
+      "executable": "/path/to/burnout_paradise/Burnout Paradise The Ultimate Box [Portable].exe",
+      "install_path": "/path/to/burnout_paradise",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 618186547,
+      "download_url": "https://archive.org/download/PortableLANGames/Burnout%20Paradise%20The%20Ultimate%20Box%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "call_of_duty",
+      "title": "Call of Duty",
+      "executable": "/path/to/call_of_duty/Call of Duty [Portable].exe",
+      "install_path": "/path/to/call_of_duty",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 448014950,
+      "download_url": "https://archive.org/download/PortableLANGames/Call%20of%20Duty%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "civilization_4_colonization",
+      "title": "Civilization 4: Colonization",
+      "executable": "/path/to/civilization_4_colonization/Civilization 4 Colonization [Portable].exe",
+      "install_path": "/path/to/civilization_4_colonization",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 166195814,
+      "download_url": "https://archive.org/download/PortableLANGames/Civilization%204%20Colonization%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "cnc_generals",
+      "title": "Command & Conquer: Generals",
+      "executable": "/path/to/cnc_generals/CnC Generals [Portable].exe",
+      "install_path": "/path/to/cnc_generals",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 188251955,
+      "download_url": "https://archive.org/download/PortableLANGames/CnC%20Generals%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "cnc_ra2_yr",
+      "title": "Command & Conquer: Red Alert 2 + Yuri's Revenge",
+      "executable": "/path/to/cnc_ra2_yr/CnC RA2+YR  [Portable].exe",
+      "install_path": "/path/to/cnc_ra2_yr",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 348127232,
+      "download_url": "https://archive.org/download/PortableLANGames/CnC%20RA2%2BYR%20%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "conflict_global_storm",
+      "title": "Conflict: Global Storm",
+      "executable": "/path/to/conflict_global_storm/Conflict Global Storm [Portable].exe",
+      "install_path": "/path/to/conflict_global_storm",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 498264678,
+      "download_url": "https://archive.org/download/PortableLANGames/Conflict%20Global%20Storm%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "cossacks_back_to_war",
+      "title": "Cossacks: Back To War",
+      "executable": "/path/to/cossacks_back_to_war/Cossacks - Back To War [Portable].exe",
+      "install_path": "/path/to/cossacks_back_to_war",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 329032294,
+      "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20Back%20To%20War%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "cossacks_european_wars",
+      "title": "Cossacks: European Wars",
+      "executable": "/path/to/cossacks_european_wars/Cossacks - European Wars [Portable].exe",
+      "install_path": "/path/to/cossacks_european_wars",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 234358374,
+      "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20European%20Wars%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "cossacks_art_of_war",
+      "title": "Cossacks: The Art Of War",
+      "executable": "/path/to/cossacks_art_of_war/Cossacks - The Art Of War [Portable].exe",
+      "install_path": "/path/to/cossacks_art_of_war",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 186127360,
+      "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20The%20Art%20Of%20War%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "counter_strike_16_decayed",
+      "title": "Counter Strike 1.6 Decayed Lite",
+      "executable": "/path/to/counter_strike_16_decayed/Counter Strike 1.6 Decayed Lite [Portable].exe",
+      "install_path": "/path/to/counter_strike_16_decayed",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 67553280,
+      "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%201.6%20Decayed%20Lite%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "counter_strike_16",
+      "title": "Counter Strike 1.6",
+      "executable": "/path/to/counter_strike_16/Counter Strike 1.6 [Portable].exe",
+      "install_path": "/path/to/counter_strike_16",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 124522086,
+      "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%201.6%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "counter_strike_2d",
+      "title": "Counter Strike 2D",
+      "executable": "/path/to/counter_strike_2d/Counter Strike 2D [Portable].exe",
+      "install_path": "/path/to/counter_strike_2d",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 4300800,
+      "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%202D%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "counter_strike_source",
+      "title": "Counter-Strike: Source",
+      "executable": "/path/to/counter_strike_source/Counter-Strike Source [Portable].exe",
+      "install_path": "/path/to/counter_strike_source",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 207321907,
+      "download_url": "https://archive.org/download/PortableLANGames/Counter-Strike%20Source%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "day_of_defeat_source",
+      "title": "Day of Defeat: Source",
+      "executable": "/path/to/day_of_defeat_source/Day of Defeat Source [Portable].exe",
+      "install_path": "/path/to/day_of_defeat_source",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 776765849,
+      "download_url": "https://archive.org/download/PortableLANGames/Day%20of%20Defeat%20Source%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "day_of_defeat",
+      "title": "Day of Defeat",
+      "executable": "/path/to/day_of_defeat/Day of Defeat [Portable].exe",
+      "install_path": "/path/to/day_of_defeat",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 282398515,
+      "download_url": "https://archive.org/download/PortableLANGames/Day%20of%20Defeat%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "faces_of_war",
+      "title": "Faces of War",
+      "executable": "/path/to/faces_of_war/Faces of War [Portable].exe",
+      "install_path": "/path/to/faces_of_war",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 535903846,
+      "download_url": "https://archive.org/download/PortableLANGames/Faces%20of%20War%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "ghost_recon",
+      "title": "Ghost Recon",
+      "executable": "/path/to/ghost_recon/Ghost Recon [Portable].exe",
+      "install_path": "/path/to/ghost_recon",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 175902720,
+      "download_url": "https://archive.org/download/PortableLANGames/Ghost%20Recon%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "gta2",
+      "title": "Grand Theft Auto 2",
+      "executable": "/path/to/gta2/Grand Theft Auto 2 [Portable].exe",
+      "install_path": "/path/to/gta2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 18874368,
+      "download_url": "https://archive.org/download/PortableLANGames/Grand%20Theft%20Auto%202%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "halo_ce",
+      "title": "Halo: Combat Evolved",
+      "executable": "/path/to/halo_ce/HALO CE [Portable].exe",
+      "install_path": "/path/to/halo_ce",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 88242790,
+      "download_url": "https://archive.org/download/PortableLANGames/HALO%20CE%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "half_life_2_deathmatch",
+      "title": "Half-Life 2: Deathmatch",
+      "executable": "/path/to/half_life_2_deathmatch/Half-Life 2 Deathmatch.exe",
+      "install_path": "/path/to/half_life_2_deathmatch",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 543674572,
+      "download_url": "https://archive.org/download/PortableLANGames/Half-Life%202%20Deathmatch.exe"
+    },
+    {
+      "app_name": "half_life_deathmatch_source",
+      "title": "Half-Life Deathmatch: Source",
+      "executable": "/path/to/half_life_deathmatch_source/Half-Life DeathMatch Source [Portable].exe",
+      "install_path": "/path/to/half_life_deathmatch_source",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 73006080,
+      "download_url": "https://archive.org/download/PortableLANGames/Half-Life%20DeathMatch%20Source%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "midnight_club_2",
+      "title": "Midnight Club 2",
+      "executable": "/path/to/midnight_club_2/Midnight Club 2 [Portable].exe",
+      "install_path": "/path/to/midnight_club_2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 191889408,
+      "download_url": "https://archive.org/download/PortableLANGames/Midnight%20Club%202%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "nfs_underground_2",
+      "title": "Need for Speed: Underground 2",
+      "executable": "/path/to/nfs_underground_2/NFS Underground 2 [Portable].exe",
+      "install_path": "/path/to/nfs_underground_2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 215674675,
+      "download_url": "https://archive.org/download/PortableLANGames/NFS%20Underground%202%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "nfs_hp2",
+      "title": "Need for Speed: Hot Pursuit 2",
+      "executable": "/path/to/nfs_hp2/NFSHP2 [ShoXell].exe",
+      "install_path": "/path/to/nfs_hp2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 407122124,
+      "download_url": "https://archive.org/download/PortableLANGames/NFSHP2%20%5BShoXell%5D.exe"
+    },
+    {
+      "app_name": "quake3",
+      "title": "Quake III Arena",
+      "executable": "/path/to/quake3/Quake3 [Portable].exe",
+      "install_path": "/path/to/quake3",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 193523712,
+      "download_url": "https://archive.org/download/PortableLANGames/Quake3%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "swat4",
+      "title": "SWAT 4",
+      "executable": "/path/to/swat4/SWAT4 [Portable].exe",
+      "install_path": "/path/to/swat4",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 687316377,
+      "download_url": "https://archive.org/download/PortableLANGames/SWAT4%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "serious_sam_first_encounter",
+      "title": "Serious Sam: The First Encounter",
+      "executable": "/path/to/serious_sam_first_encounter/Serious Sam the First Encounter [Portable].exe",
+      "install_path": "/path/to/serious_sam_first_encounter",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 401768448,
+      "download_url": "https://archive.org/download/PortableLANGames/Serious%20Sam%20the%20First%20Encounter%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "serious_sam_second_encounter",
+      "title": "Serious Sam: The Second Encounter",
+      "executable": "/path/to/serious_sam_second_encounter/Serious Sam the Second Encounter [Portable].exe",
+      "install_path": "/path/to/serious_sam_second_encounter",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 188696166,
+      "download_url": "https://archive.org/download/PortableLANGames/Serious%20Sam%20the%20Second%20Encounter%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "soldier_of_fortune_2",
+      "title": "Soldier of Fortune 2: Double Helix",
+      "executable": "/path/to/soldier_of_fortune_2/Soldier of Fortune 2 Double Helix [Portable].exe",
+      "install_path": "/path/to/soldier_of_fortune_2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 53687091,
+      "download_url": "https://archive.org/download/PortableLANGames/Soldier%20of%20Fortune%202%20Double%20Helix%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "starcraft_broodwar",
+      "title": "StarCraft + Brood War",
+      "executable": "/path/to/starcraft_broodwar/StarCraft+BroodWar [Portable].exe",
+      "install_path": "/path/to/starcraft_broodwar",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 115343360,
+      "download_url": "https://archive.org/download/PortableLANGames/StarCraft%2BBroodWar%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "stronghold_crusader_extreme",
+      "title": "Stronghold Crusader Extreme",
+      "executable": "/path/to/stronghold_crusader_extreme/Stronghold Crusader Extreme [Portable].exe",
+      "install_path": "/path/to/stronghold_crusader_extreme",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 173149389,
+      "download_url": "https://archive.org/download/PortableLANGames/Stronghold%20Crusader%20Extreme%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "team_fortress_2",
+      "title": "Team Fortress 2",
+      "executable": "/path/to/team_fortress_2/Team Fortress 2 [Portable].exe",
+      "install_path": "/path/to/team_fortress_2",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 1288490189,
+      "download_url": "https://archive.org/download/PortableLANGames/Team%20Fortress%202%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "team_fortress_classic",
+      "title": "Team Fortress Classic",
+      "executable": "/path/to/team_fortress_classic/Team Fortress Classic [Portable].exe",
+      "install_path": "/path/to/team_fortress_classic",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 155713536,
+      "download_url": "https://archive.org/download/PortableLANGames/Team%20Fortress%20Classic%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "tony_hawks_pro_skater_4",
+      "title": "Tony Hawk's Pro Skater 4",
+      "executable": "/path/to/tony_hawks_pro_skater_4/Tony Hawks Pro Skater 4 [Portable].exe",
+      "install_path": "/path/to/tony_hawks_pro_skater_4",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 146014208,
+      "download_url": "https://archive.org/download/PortableLANGames/Tony%20Hawks%20Pro%20Skater%204%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "unreal_tournament",
+      "title": "Unreal Tournament",
+      "executable": "/path/to/unreal_tournament/Unreal Tournament [Portable].exe",
+      "install_path": "/path/to/unreal_tournament",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 277301453,
+      "download_url": "https://archive.org/download/PortableLANGames/Unreal%20Tournament%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "warcraft_3_frozen_throne",
+      "title": "Warcraft III + Frozen Throne",
+      "executable": "/path/to/warcraft_3_frozen_throne/Warcraft III + Frozen Throne [Portable].exe",
+      "install_path": "/path/to/warcraft_3_frozen_throne",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 274287206,
+      "download_url": "https://archive.org/download/PortableLANGames/Warcraft%20III%20%2B%20Frozen%20Throne%20%5BPortable%5D.exe"
+    },
+    {
+      "app_name": "warhammer_40k_dawn_of_war",
+      "title": "Warhammer 40,000: Dawn of War",
+      "executable": "/path/to/warhammer_40k_dawn_of_war/Warhammer 40000 Dawn of War [Portable].exe",
+      "install_path": "/path/to/warhammer_40k_dawn_of_war",
+      "platform": "Windows",
+      "version": "1.0.0",
+      "install_size_bytes": 300322406,
+      "download_url": "https://archive.org/download/PortableLANGames/Warhammer%2040000%20Dawn%20of%20War%20%5BPortable%5D.exe"
+    }
+  ]
+}
+  
