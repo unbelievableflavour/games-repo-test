@@ -5,7 +5,7 @@
     {
       "app_name": "unreal_tournament_goty",
       "title": "Unreal Tournament GOTY",
-      "executable": "/path/to/unreal_tournament/UnrealTournament.exe",
+      "executable": "UT_GOTY.exe",
       "install_path": "/path/to/unreal_tournament",
       "platform": "Windows",
       "description": "Unreal Tournament is a first-person arena shooter video game developed by Epic Games and Digital Extremes. The original Unreal Tournament began as a mod for Unreal, but soon developed a life of its own. This Game of the Year Edition includes additional content and improvements.",
