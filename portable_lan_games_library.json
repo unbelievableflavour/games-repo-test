@@ -206,7 +206,7 @@
       "app_name": "halo_ce",
       "title": "Halo: Combat Evolved",
       "executable": "HALO%20CE%20%5BPortable%5D.exe",
-      "install_path": "/path/to/halo_ce",
+      "install_path": "/halo_ce",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 88242790,
