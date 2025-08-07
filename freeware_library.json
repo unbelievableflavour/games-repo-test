@@ -3,13 +3,13 @@
   "description": "A collection of freeware games from the internet",
   "games": [
     {
-      "app_name": "unreal_tournament_goty",
-      "title": "Unreal Tournament GOTY",
-      "executable": "UT_GOTY.exe",
-      "install_path": "/unreal_tournament_goty",
+      "app_name": "unreal_tournament",
+      "title": "Unreal Tournament",
+      "executable": "Unreal/System/UnrealTournament.exe",
+      "install_path": "/unreal_tournament",
       "platform": "Windows",
       "description": "Unreal Tournament is a first-person arena shooter video game developed by Epic Games and Digital Extremes. The original Unreal Tournament began as a mod for Unreal, but soon developed a life of its own. This Game of the Year Edition includes additional content and improvements.",
-      "version": "GOTY",
+      "version": "0.0.1",
       "developer": "Epic Games / Digital Extremes",
       "release_date": "1999-11-30",
       "genre": "First-Person Shooter",
