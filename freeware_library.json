@@ -11,7 +11,17 @@
       "version": "1.0.0",
       "install_size_bytes": 0,
       "install_executable": "UT_GOTY.exe",
+      "install_args": ["/S" ,"/D=Z:{gameFolder}"],
       "download_url": "https://www.oldunreal.com/site/assets/files/1107/ut_goty.zip"
+    },
+    {
+      "app_name": "grid_wars",
+      "title": "Grid Wars",
+      "executable": "GridWars.exe",
+      "platform": "Windows",
+      "version": "5.3",
+      "install_size_bytes": 3200000,
+      "download_url": "https://archive.org/download/grid-wars_202311/GridWars.zip"
     },
     {
       "app_name": "cave_story",
@@ -20,12 +30,24 @@
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 0,
-      "download_url": "https://www.cavestory.org/downloads/cavestoryen.zip"
+      "download_url": "https://www.cavestory.org/downloads/cavestoryen.zip",
+      "launch_options": [
+        {
+          "type": "altExe",
+          "name": "Org View",
+          "executable": "CaveStory/OrgView.exe"
+        },
+        {
+          "type": "altExe",
+          "name": "Configuration Tool",
+          "executable": "CaveStory/DoConfig.exe"
+        }
+      ]
     },
     {
       "app_name": "celeste_64",
       "title": "Celeste 64: Fragments of the Mountain",
-      "executable": "Celeste64-v1.1.1-Windows-x64/Celeste64.exe",
+      "executable": "Celeste64.exe",
       "platform": "Windows",
       "version": "1.1.1",
       "install_size_bytes": 28300000,

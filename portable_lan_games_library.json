@@ -10,6 +10,7 @@
       "version": "1.0.0",
       "install_size_bytes": 178649600,
       "install_executable": "Age%20of%20Mythology%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Age%20of%20Mythology%20%5BPortable%5D.exe"
     },
     {
@@ -20,6 +21,7 @@
       "version": "1.0.0",
       "install_size_bytes": 147128320,
       "install_executable": "AoE2%2BExp%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/AoE2%2BExp%20%5BPortable%5D.exe"
     },
     {
@@ -30,6 +32,7 @@
       "version": "1.0.0",
       "install_size_bytes": 618186547,
       "install_executable": "Burnout%20Paradise%20The%20Ultimate%20Box%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Burnout%20Paradise%20The%20Ultimate%20Box%20%5BPortable%5D.exe"
     },
     {
@@ -40,6 +43,7 @@
       "version": "1.0.0",
       "install_size_bytes": 448014950,
       "install_executable": "Call%20of%20Duty%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Call%20of%20Duty%20%5BPortable%5D.exe"
     },
     {
@@ -50,6 +54,7 @@
       "version": "1.0.0",
       "install_size_bytes": 166195814,
       "install_executable": "Civilization%204%20Colonization%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Civilization%204%20Colonization%20%5BPortable%5D.exe"
     },
     {
@@ -60,6 +65,7 @@
       "version": "1.0.0",
       "install_size_bytes": 188251955,
       "install_executable": "CnC%20Generals%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/CnC%20Generals%20%5BPortable%5D.exe"
     },
     {
@@ -70,6 +76,7 @@
       "version": "1.0.0",
       "install_size_bytes": 348127232,
       "install_executable": "CnC%20RA2%2BYR%20%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/CnC%20RA2%2BYR%20%20%5BPortable%5D.exe"
     },
     {
@@ -80,6 +87,7 @@
       "version": "1.0.0",
       "install_size_bytes": 498264678,
       "install_executable": "Conflict%20Global%20Storm%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Conflict%20Global%20Storm%20%5BPortable%5D.exe"
     },
     {
@@ -90,6 +98,7 @@
       "version": "1.0.0",
       "install_size_bytes": 329032294,
       "install_executable": "Cossacks%20-%20Back%20To%20War%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20Back%20To%20War%20%5BPortable%5D.exe"
     },
     {
@@ -100,6 +109,7 @@
       "version": "1.0.0",
       "install_size_bytes": 234358374,
       "install_executable": "Cossacks%20-%20European%20Wars%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20European%20Wars%20%5BPortable%5D.exe"
     },
     {
@@ -110,6 +120,7 @@
       "version": "1.0.0",
       "install_size_bytes": 186127360,
       "install_executable": "Cossacks%20-%20The%20Art%20Of%20War%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20The%20Art%20Of%20War%20%5BPortable%5D.exe"
     },
     {
@@ -120,6 +131,7 @@
       "version": "1.0.0",
       "install_size_bytes": 124522086,
       "install_executable": "Counter%20Strike%201.6%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%201.6%20%5BPortable%5D.exe"
     },
     {
@@ -130,6 +142,7 @@
       "version": "1.0.0",
       "install_size_bytes": 4300800,
       "install_executable": "Counter%20Strike%202D%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%202D%20%5BPortable%5D.exe"
     },
     {
@@ -140,6 +153,7 @@
       "version": "1.0.0",
       "install_size_bytes": 207321907,
       "install_executable": "Counter-Strike%20Source%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Counter-Strike%20Source%20%5BPortable%5D.exe"
     },
     {
@@ -150,6 +164,7 @@
       "version": "1.0.0",
       "install_size_bytes": 776765849,
       "install_executable": "Day%20of%20Defeat%20Source%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Day%20of%20Defeat%20Source%20%5BPortable%5D.exe"
     },
     {
@@ -160,6 +175,7 @@
       "version": "1.0.0",
       "install_size_bytes": 282398515,
       "install_executable": "Day%20of%20Defeat%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Day%20of%20Defeat%20%5BPortable%5D.exe"
     },
     {
@@ -170,6 +186,7 @@
       "version": "1.0.0",
       "install_size_bytes": 535903846,
       "install_executable": "Faces%20of%20War%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Faces%20of%20War%20%5BPortable%5D.exe"
     },
     {
@@ -180,17 +197,31 @@
       "version": "1.0.0",
       "install_size_bytes": 175902720,
       "install_executable": "Ghost%20Recon%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Ghost%20Recon%20%5BPortable%5D.exe"
     },
-    {
+    { 
       "app_name": "gta2",
       "title": "Grand Theft Auto 2",
-      "executable": "/path/to/gta2/Grand Theft Auto 2 [Portable].exe",
+      "executable": "Grand Theft Auto 2 [Portable]/gta2.exe",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 18874368,
       "install_executable": "Grand%20Theft%20Auto%202%20%5BPortable%5D.exe",
-      "download_url": "https://archive.org/download/PortableLANGames/Grand%20Theft%20Auto%202%20%5BPortable%5D.exe"
+      "install_args": ["-y", "-o{gameFolder}"],
+      "download_url": "https://archive.org/download/PortableLANGames/Grand%20Theft%20Auto%202%20%5BPortable%5D.exe",
+      "launch_options": [
+        {
+          "type": "altExe",
+          "name": "Manager",
+          "executable": "Grand Theft Auto 2 [Portable]/gta2 manager.exe"
+        },
+        {
+          "type": "altExe",
+          "name": "Power Manager",
+          "executable": "Grand Theft Auto 2 [Portable]/gta2 powermanager.exe"
+        }
+      ]
     },
     {
       "app_name": "halo_ce",
@@ -200,7 +231,25 @@
       "version": "1.0.0",
       "install_size_bytes": 88242790,
       "install_executable": "HALO%20CE%20%5BPortable%5D.exe",
-      "download_url": "https://archive.org/download/PortableLANGames/HALO%20CE%20%5BPortable%5D.exe"
+      "install_args": ["-y", "-o{gameFolder}"],
+      "download_url": "https://archive.org/download/PortableLANGames/HALO%20CE%20%5BPortable%5D.exe",
+      "launch_options": [
+        {
+          "type": "altExe",
+          "name": "Dedicated Server",
+          "executable": "HALO CE [Portable]/haloceded.exe"
+        },
+        {
+          "type": "altExe",
+          "name": "Update",
+          "executable": "HALO CE [Portable]/haloupdate.exe"
+        },
+        {
+          "type": "altExe",
+          "name": "Uninstall",
+          "executable": "CaveStory/Uninstal.exe"
+        }
+      ]
     },
     {
       "app_name": "half_life_2_deathmatch",
@@ -210,6 +259,7 @@
       "version": "1.0.0",
       "install_size_bytes": 543674572,
       "install_executable": "Half-Life%202%20Deathmatch.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Half-Life%202%20Deathmatch.exe"
     },
     {
@@ -220,6 +270,7 @@
       "version": "1.0.0",
       "install_size_bytes": 73006080,
       "install_executable": "Half-Life%20DeathMatch%20Source%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Half-Life%20DeathMatch%20Source%20%5BPortable%5D.exe"
     },
     {
@@ -230,6 +281,7 @@
       "version": "1.0.0",
       "install_size_bytes": 191889408,
       "install_executable": "Midnight%20Club%202%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Midnight%20Club%202%20%5BPortable%5D.exe"
     },
     {
@@ -240,6 +292,7 @@
       "version": "1.0.0",
       "install_size_bytes": 215674675,
       "install_executable": "NFS%20Underground%202%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/NFS%20Underground%202%20%5BPortable%5D.exe"
     },
     {
@@ -250,6 +303,7 @@
       "version": "1.0.0",
       "install_size_bytes": 407122124,
       "install_executable": "NFSHP2%20%5BShoXell%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/NFSHP2%20%5BShoXell%5D.exe"
     },
     {
@@ -260,6 +314,7 @@
       "version": "1.0.0",
       "install_size_bytes": 193523712,
       "install_executable": "Quake3%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Quake3%20%5BPortable%5D.exe"
     },
     {
@@ -270,6 +325,7 @@
       "version": "1.0.0",
       "install_size_bytes": 687316377,
       "install_executable": "SWAT4%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/SWAT4%20%5BPortable%5D.exe"
     },
     {
@@ -280,6 +336,7 @@
       "version": "1.0.0",
       "install_size_bytes": 401768448,
       "install_executable": "Serious%20Sam%20the%20First%20Encounter%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Serious%20Sam%20the%20First%20Encounter%20%5BPortable%5D.exe"
     },
     {
@@ -290,6 +347,7 @@
       "version": "1.0.0",
       "install_size_bytes": 188696166,
       "install_executable": "Serious%20Sam%20the%20Second%20Encounter%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Serious%20Sam%20the%20Second%20Encounter%20%5BPortable%5D.exe"
     },
     {
@@ -300,6 +358,7 @@
       "version": "1.0.0",
       "install_size_bytes": 53687091,
       "install_executable": "Soldier%20of%20Fortune%202%20Double%20Helix%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Soldier%20of%20Fortune%202%20Double%20Helix%20%5BPortable%5D.exe"
     },
     {
@@ -310,6 +369,7 @@
       "version": "1.0.0",
       "install_size_bytes": 115343360,
       "install_executable": "StarCraft%2BBroodWar%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/StarCraft%2BBroodWar%20%5BPortable%5D.exe"
     },
     {
@@ -320,6 +380,7 @@
       "version": "1.0.0",
       "install_size_bytes": 173149389,
       "install_executable": "Stronghold%20Crusader%20Extreme%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Stronghold%20Crusader%20Extreme%20%5BPortable%5D.exe"
     },
     {
@@ -330,6 +391,7 @@
       "version": "1.0.0",
       "install_size_bytes": 1288490189,
       "install_executable": "Team%20Fortress%202%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Team%20Fortress%202%20%5BPortable%5D.exe"
     },
     {
@@ -340,6 +402,7 @@
       "version": "1.0.0",
       "install_size_bytes": 155713536,
       "install_executable": "Team%20Fortress%20Classic%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Team%20Fortress%20Classic%20%5BPortable%5D.exe"
     },
     {
@@ -350,6 +413,7 @@
       "version": "1.0.0",
       "install_size_bytes": 146014208,
       "install_executable": "Tony%20Hawks%20Pro%20Skater%204%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Tony%20Hawks%20Pro%20Skater%204%20%5BPortable%5D.exe"
     },
     {
@@ -360,6 +424,7 @@
       "version": "1.0.0",
       "install_size_bytes": 277301453,
       "install_executable": "Unreal%20Tournament%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Unreal%20Tournament%20%5BPortable%5D.exe"
     },
     {
@@ -370,6 +435,7 @@
       "version": "1.0.0",
       "install_size_bytes": 274287206,
       "install_executable": "Warcraft%20III%20%2B%20Frozen%20Throne%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Warcraft%20III%20%2B%20Frozen%20Throne%20%5BPortable%5D.exe"
     },
     {
@@ -380,6 +446,7 @@
       "version": "1.0.0",
       "install_size_bytes": 300322406,
       "install_executable": "Warhammer%2040000%20Dawn%20of%20War%20%5BPortable%5D.exe",
+      "install_args": ["-y", "-o{gameFolder}"],
       "download_url": "https://archive.org/download/PortableLANGames/Warhammer%2040000%20Dawn%20of%20War%20%5BPortable%5D.exe"
     }
   ]
