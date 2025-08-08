@@ -305,7 +305,7 @@
     {
       "app_name": "starcraft_broodwar",
       "title": "StarCraft + Brood War",
-      "executable": "/path/to/starcraft_broodwar/StarCraft+BroodWar [Portable].exe",
+      "executable": "StarCraft+BroodWar [Portable]/StarCraft.exe",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 115343360,
@@ -315,7 +315,7 @@
     {
       "app_name": "stronghold_crusader_extreme",
       "title": "Stronghold Crusader Extreme",
-      "executable": "/path/to/stronghold_crusader_extreme/Stronghold Crusader Extreme [Portable].exe",
+      "executable": "Stronghold Crusader Extreme [Portable]/setup.bat",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 173149389,
@@ -365,7 +365,7 @@
     {
       "app_name": "warcraft_3_frozen_throne",
       "title": "Warcraft III + Frozen Throne",
-      "executable": "/path/to/warcraft_3_frozen_throne/Warcraft III + Frozen Throne [Portable].exe",
+      "executable": "Warcraft III + Frozen Throne [Portable]/war3.exe",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 274287206,
@@ -375,7 +375,7 @@
     {
       "app_name": "warhammer_40k_dawn_of_war",
       "title": "Warhammer 40,000: Dawn of War",
-      "executable": "/path/to/warhammer_40k_dawn_of_war/Warhammer 40000 Dawn of War [Portable].exe",
+      "executable": "Warhammer 40000 Dawn of War [Portable]/W40k.exe",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 300322406,
