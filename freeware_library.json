@@ -21,6 +21,15 @@
       "version": "1.0.0",
       "install_size_bytes": 0,
       "download_url": "https://www.cavestory.org/downloads/cavestoryen.zip"
+    },
+    {
+      "app_name": "celeste_64",
+      "title": "Celeste 64: Fragments of the Mountain",
+      "executable": "Celeste64-v1.1.1-Windows-x64/Celeste64.exe",
+      "platform": "Windows",
+      "version": "1.1.1",
+      "install_size_bytes": 28300000,
+      "download_url": "https://github.com/EXOK/Celeste64/releases/download/v1.1.1/Celeste64-v1.1.1-Windows-x64.zip"
     }
   ]
 }
