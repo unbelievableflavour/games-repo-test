@@ -215,7 +215,7 @@
     {
       "app_name": "half_life_2_deathmatch",
       "title": "Half-Life 2: Deathmatch",
-      "executable": "/path/to/half_life_2_deathmatch/Half-Life 2 Deathmatch.exe",
+      "executable": "Half-Life 2 Deathmatch/hl2.exe",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 543674572,
