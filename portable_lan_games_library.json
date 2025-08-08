@@ -14,7 +14,7 @@
     },
     {
       "app_name": "aoe2_exp",
-      "title": "Age of Empires II + Expansion",
+      "title": "Age of Empires II",
       "executable": "/path/to/aoe2_exp/AoE2+Exp [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -43,8 +43,8 @@
       "download_url": "https://archive.org/download/PortableLANGames/Call%20of%20Duty%20%5BPortable%5D.exe"
     },
     {
-      "app_name": "civilization_4_colonization",
-      "title": "Civilization 4: Colonization",
+      "app_name": "civilization_4",
+      "title": "Sid Meier's Civilization IV",
       "executable": "/path/to/civilization_4_colonization/Civilization 4 Colonization [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -64,7 +64,7 @@
     },
     {
       "app_name": "cnc_ra2_yr",
-      "title": "Command & Conquer: Red Alert 2 + Yuri's Revenge",
+      "title": "Command & Conquer: Red Alert 2",
       "executable": "/path/to/cnc_ra2_yr/CnC RA2+YR  [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -113,18 +113,8 @@
       "download_url": "https://archive.org/download/PortableLANGames/Cossacks%20-%20The%20Art%20Of%20War%20%5BPortable%5D.exe"
     },
     {
-      "app_name": "counter_strike_16_decayed",
-      "title": "Counter Strike 1.6 Decayed Lite",
-      "executable": "/path/to/counter_strike_16_decayed/Counter Strike 1.6 Decayed Lite [Portable].exe",
-      "platform": "Windows",
-      "version": "1.0.0",
-      "install_size_bytes": 67553280,
-      "install_executable": "Counter%20Strike%201.6%20Decayed%20Lite%20%5BPortable%5D.exe",
-      "download_url": "https://archive.org/download/PortableLANGames/Counter%20Strike%201.6%20Decayed%20Lite%20%5BPortable%5D.exe"
-    },
-    {
-      "app_name": "counter_strike_16",
-      "title": "Counter Strike 1.6",
+      "app_name": "counter_strike",
+      "title": "Counter Strike",
       "executable": "/path/to/counter_strike_16/Counter Strike 1.6 [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -134,7 +124,7 @@
     },
     {
       "app_name": "counter_strike_2d",
-      "title": "Counter Strike 2D",
+      "title": "CS2D",
       "executable": "/path/to/counter_strike_2d/Counter Strike 2D [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -234,7 +224,7 @@
     },
     {
       "app_name": "midnight_club_2",
-      "title": "Midnight Club 2",
+      "title": "Midnight Club II",
       "executable": "/path/to/midnight_club_2/Midnight Club 2 [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -304,7 +294,7 @@
     },
     {
       "app_name": "soldier_of_fortune_2",
-      "title": "Soldier of Fortune 2: Double Helix",
+      "title": "Soldier of Fortune II: Double Helix",
       "executable": "/path/to/soldier_of_fortune_2/Soldier of Fortune 2 Double Helix [Portable].exe",
       "platform": "Windows",
       "version": "1.0.0",
@@ -394,4 +384,3 @@
     }
   ]
 }
-  
