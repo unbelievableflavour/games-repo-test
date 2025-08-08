@@ -11,8 +11,19 @@
       "version": "1.0.0",
       "install_size_bytes": 0,
       "install_executable": "UT_GOTY.exe",
-      "install_args": ["/S" ,"/D=Z:{gameFolder}"],
+      "install_args": ["/S" ,"/D={gameFolder}"],
       "download_url": "https://www.oldunreal.com/site/assets/files/1107/ut_goty.zip"
+    },
+    {
+      "app_name": "soldat",
+      "title": "Soldat",
+      "executable": "soldat.exe",
+      "platform": "Windows",
+      "version": "1.7.1.1",
+      "install_size_bytes": 150000000,
+      "install_executable": "soldat1711.exe",
+      "install_args": ["/VERYSILENT","/DIR={gameFolder}"],
+      "download_url": "https://soldat.pl/down.php?id=107&mirror=https%3A%2F%2Fstatic.soldat.pl%2Fdownloads%2Fsoldat1711.zip&lang=en"
     },
     {
       "app_name": "grid_wars",
