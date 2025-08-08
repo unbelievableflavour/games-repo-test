@@ -365,7 +365,7 @@
     {
       "app_name": "unreal_tournament",
       "title": "Unreal Tournament",
-      "executable": "/path/to/unreal_tournament/Unreal Tournament [Portable].exe",
+      "executable": "Unreal Tournament [Portable]/Unreal Tournament [Portable].bat",
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 277301453,
