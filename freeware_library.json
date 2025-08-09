@@ -10,9 +10,11 @@
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 0,
-      "install_executable": "UT_GOTY.exe",
-      "install_args": ["/S" ,"/D={gameFolder}"],
-      "download_url": "https://www.oldunreal.com/site/assets/files/1107/ut_goty.zip"
+      "install_tasks": [
+        { "type": "download", "url": "https://www.oldunreal.com/site/assets/files/1107/ut_goty.zip" },
+        { "type": "extract", "source": "ut_goty.zip", "deleteAfterExtraction": true },
+        { "type": "run", "executable": "UT_GOTY.exe", "args": ["/S", "/D={gameFolder}"] }
+      ]
     },
     {
       "app_name": "soldat",
@@ -21,9 +23,14 @@
       "platform": "Windows",
       "version": "1.7.1.1",
       "install_size_bytes": 150000000,
-      "install_executable": "soldat1711.exe",
-      "install_args": ["/VERYSILENT","/DIR={gameFolder}"],
-      "download_url": "https://soldat.pl/down.php?id=107&mirror=https%3A%2F%2Fstatic.soldat.pl%2Fdownloads%2Fsoldat1711.zip&lang=en"
+      "install_tasks": [
+        { "type": "download", "url": "https://soldat.pl/down.php?id=107&mirror=https%3A%2F%2Fstatic.soldat.pl%2Fdownloads%2Fsoldat1711.zip&lang=en" },
+        { "type": "extract", "source": "soldat1711.zip", "deleteAfterExtraction": true },
+        { "type": "run", "executable": "soldat1711.exe", "args": ["/VERYSILENT", "/DIR={gameFolder}"] }
+      ],
+      "uninstall_tasks": [
+        { "type": "run", "executable": "unins000.exe", "args": [] }
+      ]
     },
     {
       "app_name": "grid_wars",
@@ -32,7 +39,10 @@
       "platform": "Windows",
       "version": "5.3",
       "install_size_bytes": 3200000,
-      "download_url": "https://archive.org/download/grid-wars_202311/GridWars.zip"
+      "install_tasks": [
+        { "type": "download", "url": "https://archive.org/download/grid-wars_202311/GridWars.zip" },
+        { "type": "extract", "source": "GridWars.zip", "deleteAfterExtraction": true }
+      ]
     },
     {
       "app_name": "cave_story",
@@ -41,18 +51,13 @@
       "platform": "Windows",
       "version": "1.0.0",
       "install_size_bytes": 0,
-      "download_url": "https://www.cavestory.org/downloads/cavestoryen.zip",
+      "install_tasks": [
+        { "type": "download", "url": "https://www.cavestory.org/downloads/cavestoryen.zip" },
+        { "type": "extract", "source": "cavestoryen.zip", "deleteAfterExtraction": true }
+      ],
       "launch_options": [
-        {
-          "type": "altExe",
-          "name": "Org View",
-          "executable": "CaveStory/OrgView.exe"
-        },
-        {
-          "type": "altExe",
-          "name": "Configuration Tool",
-          "executable": "CaveStory/DoConfig.exe"
-        }
+        { "type": "altExe", "name": "Org View", "executable": "CaveStory/OrgView.exe" },
+        { "type": "altExe", "name": "Configuration Tool", "executable": "CaveStory/DoConfig.exe" }
       ]
     },
     {
@@ -62,7 +67,10 @@
       "platform": "Windows",
       "version": "1.1.1",
       "install_size_bytes": 28300000,
-      "download_url": "https://github.com/EXOK/Celeste64/releases/download/v1.1.1/Celeste64-v1.1.1-Windows-x64.zip"
+      "install_tasks": [
+        { "type": "download", "url": "https://github.com/EXOK/Celeste64/releases/download/v1.1.1/Celeste64-v1.1.1-Windows-x64.zip" },
+        { "type": "extract", "source": "Celeste64-v1.1.1-Windows-x64.zip", "deleteAfterExtraction": true }
+      ]
     }
   ]
 }
