@@ -17,6 +17,21 @@
       ]
     },
     {
+      "app_name": "rubber_ninjas_demo",
+      "title": "Rubber Ninjas (Demo)",
+      "executable": "Rubber Ninjas Demo.exe",
+      "platform": "Windows",
+      "version": "1.05 (demo)",
+      "install_size_bytes": 19800000,
+      "install_tasks": [
+        { "type": "download", "url": "https://rubberninjas.com/Rubber_Ninjas_Demo_Setup.exe" },
+        { "type": "run", "executable": "Rubber_Ninjas_Demo_Setup.exe", "args": ["/VERYSILENT", "/DIR={gameFolder}"] }
+      ],
+      "uninstall_tasks": [
+        { "type": "run", "executable": "unins000.exe" }
+      ]
+    },
+    {
       "app_name": "soldat",
       "title": "Soldat",
       "executable": "soldat.exe",
@@ -27,9 +42,6 @@
         { "type": "download", "url": "https://soldat.pl/down.php?id=107&mirror=https%3A%2F%2Fstatic.soldat.pl%2Fdownloads%2Fsoldat1711.zip&lang=en" },
         { "type": "extract", "source": "soldat1711.zip" },
         { "type": "run", "executable": "soldat1711.exe", "args": ["/VERYSILENT", "/DIR={gameFolder}"] }
-      ],
-      "uninstall_tasks": [
-        { "type": "run", "executable": "unins000.exe", "args": [] }
       ]
     },
     {
