@@ -6,21 +6,26 @@
         "app_name": "nightfire",
         "title": "007: Nightfire",
         "executable": "/path/to/nightfire/nightfire.exe",
-        "install_path": "/path/to/nightfire",
         "platform": "Windows",
         "description": "James Bond 007: Nightfire (sometimes stylised NightFire) is a 2002 first-person shooter game published by Electronic Arts (EA) for the GameCube, PlayStation 2, Xbox and Microsoft Windows, with additional versions released for the Game Boy Advance in 2003, and Mac OS X in 2004. The computer versions feature modifications to the storyline, different missions, and the removal of driving sections used in home console versions.",
         "version": "0.0.1",
-        "download_url": "https://d1.myabandonware.com/t/50cfd698-5e8a-42c1-bae8-b5d1c580abf2/James-Bond-007-Nightfire_Win_EN_MagiPack.zip"
+        "install_tasks": [
+          { "type": "download", "url": "https://d1.myabandonware.com/t/50cfd698-5e8a-42c1-bae8-b5d1c580abf2/James-Bond-007-Nightfire_Win_EN_MagiPack.zip" },
+          { "type": "extract", "source": "James-Bond-007-Nightfire_Win_EN_MagiPack.zip" },
+          { "type": "run", "executable": "UT_GOTY.exe", "args": ["/S", "/D={gameFolder}"] }
+        ]
       },
       {
         "app_name": "halo_ce",
         "title": "Halo: Combat Evolved",
-        "executable": "haloce.exe",
-        "install_path": "/halo_ce",
+        "executable": "HALO CE [Portable]/haloce.exe",
         "platform": "Windows",
         "version": "1.0.0",
         "install_size_bytes": 88242790,
-        "download_url": "https://archive.org/download/HaloCEINGLESV1.10Portable/Halo%20CE%20%28INGLES%29%20v1.10%20%20-%20Portable.rar"
+        "install_tasks": [
+          { "type": "download", "url": "https://archive.org/download/PortableLANGames/HALO%20CE%20%5BPortable%5D.exe" },
+          { "type": "run", "executable": "HALO%20CE%20%5BPortable%5D.exe", "args": ["-y", "-o{gameFolder}"] }
+        ]
       }
     ]
   }

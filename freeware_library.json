@@ -12,7 +12,7 @@
       "install_size_bytes": 0,
       "install_tasks": [
         { "type": "download", "url": "https://www.oldunreal.com/site/assets/files/1107/ut_goty.zip" },
-        { "type": "extract", "source": "ut_goty.zip", "deleteAfterExtraction": true },
+        { "type": "extract", "source": "ut_goty.zip" },
         { "type": "run", "executable": "UT_GOTY.exe", "args": ["/S", "/D={gameFolder}"] }
       ]
     },
@@ -25,7 +25,7 @@
       "install_size_bytes": 150000000,
       "install_tasks": [
         { "type": "download", "url": "https://soldat.pl/down.php?id=107&mirror=https%3A%2F%2Fstatic.soldat.pl%2Fdownloads%2Fsoldat1711.zip&lang=en" },
-        { "type": "extract", "source": "soldat1711.zip", "deleteAfterExtraction": true },
+        { "type": "extract", "source": "soldat1711.zip" },
         { "type": "run", "executable": "soldat1711.exe", "args": ["/VERYSILENT", "/DIR={gameFolder}"] }
       ],
       "uninstall_tasks": [
@@ -41,7 +41,7 @@
       "install_size_bytes": 3200000,
       "install_tasks": [
         { "type": "download", "url": "https://archive.org/download/grid-wars_202311/GridWars.zip" },
-        { "type": "extract", "source": "GridWars.zip", "deleteAfterExtraction": true }
+        { "type": "extract", "source": "GridWars.zip" }
       ]
     },
     {
@@ -53,7 +53,7 @@
       "install_size_bytes": 0,
       "install_tasks": [
         { "type": "download", "url": "https://www.cavestory.org/downloads/cavestoryen.zip" },
-        { "type": "extract", "source": "cavestoryen.zip", "deleteAfterExtraction": true }
+        { "type": "extract", "source": "cavestoryen.zip" }
       ],
       "launch_options": [
         { "type": "altExe", "name": "Org View", "executable": "CaveStory/OrgView.exe" },
@@ -69,7 +69,7 @@
       "install_size_bytes": 28300000,
       "install_tasks": [
         { "type": "download", "url": "https://github.com/EXOK/Celeste64/releases/download/v1.1.1/Celeste64-v1.1.1-Windows-x64.zip" },
-        { "type": "extract", "source": "Celeste64-v1.1.1-Windows-x64.zip", "deleteAfterExtraction": true }
+        { "type": "extract", "source": "Celeste64-v1.1.1-Windows-x64.zip" }
       ]
     }
   ]
